@@ -2,6 +2,8 @@
 
 Materials from "A Processing Primer for Artists", a [Studio Workshop offered at SIGGRAPH 2017](http://s2017.siggraph.org/studio-workshops).
 
+Many more materials for learning Processing are available at https://processing.org/
+
 Workshop Leaders:
 
 * [Kate Hollenbach](http://www.katehollenbach.com/), UCLA and USC
